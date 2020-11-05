@@ -2,9 +2,9 @@
 
 def create_outline():
     """
-    TODO: implement your code here
+    FUnction that Prints Courses and problems
     """
-    #pass
+    
     course_topics = {"Introduction to python", "Tools of the Trade", "How to make decisions", "How to repeat code", "How to structure data", "Functions", "Modules"}
     course_topics = list(course_topics)
     print("Course topics:")
