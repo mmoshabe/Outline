@@ -16,11 +16,8 @@ def create_outline():
     for topic in course_topics:
         problems.update({topic : problem_list})
         print('* ' + topic + ' : ' + problem_list[0] +', ' + problem_list[1] + ', ' + problem_list[2])
-    # print(problems)
-    #for i in problems:
-    #    print('* ' + i + ' : ' + problem_list[0] +', ' + problem_list[1] + ', ' + problem_list[2])
-    student_name = ("Helena","Ruth", "Nyari", "Verena", "Nyari")
-    for 
+    
+    student_name = ("Helena","Ruth", "Nyari", "Verena", "Nyari")  
         
 
 
